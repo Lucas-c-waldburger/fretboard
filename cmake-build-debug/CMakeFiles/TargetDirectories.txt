@@ -1,0 +1,3 @@
+/Users/lowerschoolmusic/linkedlists/cmake-build-debug/CMakeFiles/linkedlists.dir
+/Users/lowerschoolmusic/linkedlists/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lowerschoolmusic/linkedlists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
